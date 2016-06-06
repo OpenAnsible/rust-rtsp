@@ -4,7 +4,7 @@ use std::fmt;
 #[derive(Debug, Clone, PartialEq, Eq, PartialOrd, Ord, Copy)]
 pub enum RtspVersion {
     /// `RTSP/1.0`
-	Rtsp10
+    Rtsp10
 }
 
 impl fmt::Display for RtspVersion {

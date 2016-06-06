@@ -1,7 +1,7 @@
-Rust RTSP Lib
+Rust RTSP Library
 ====================
 
-:Date: 02/06 2016
+:Date: 06/02 2016
 
 .. contents::
 
